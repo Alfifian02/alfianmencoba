@@ -1,24 +1,35 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<style>
-/* This is a single-line comment */
-h4 {
-  text-indent: 10px;
-}
-p {
-  color: darkblue;
-  text-indent: 10px;
-} 
-</style>
+  <style>
+    /* This is a single-line comment */
+    h4 {
+      text-indent: 10px;
+    }
+
+    p {
+      color: rgb(14, 0, 139);
+      text-indent: 10px;
+    }
+  </style>
 </head>
+
 <body>
 
-<h1>Faksi dari Honkai: Star Rail</h1>
+  <h1>Faksi dari Honkai: Star Rail</h1>
 
-<h4>The mortal beings' speculation of divine intent is a futile endeavor, akin to the irrelevance of a mayfly against the enormity of the cosmos. However, when individuals harbor a shared misconception, they gather as a crowd, giving rise to an added value: the formation of consensus, the transmutation of misconception into a generally accepted solution, and the attraction of the collective... Subsequently, factions naturally emerge.</h4>
+  <h4>The mortal beings' speculation of divine intent is a futile endeavor, akin to the irrelevance of a mayfly against
+    the enormity of the cosmos. However, when individuals harbor a shared misconception, they gather as a crowd, giving
+    rise to an added value: the formation of consensus, the transmutation of misconception into a generally accepted
+    solution, and the attraction of the collective... Subsequently, factions naturally emerge.</h4>
 
-<p>Regardless of the size of factions, they all believe that their faith bears the will of the <b>Aeons</b>. Countless factions even claim to be the emissaries of a certain Aeon. Most of the Aeons have found no interest in the ways of these factions. Some, however, find it extremely amusing to watch these ants in their fervent labor. <strong>THEY</strong> may provide careful guidance, or create mysticism to alter the progress of the faction. This is THEIR way of influencing the world.</p>
+  <p>Regardless of the size of factions, they all believe that their faith bears the will of the <b>Aeons</b>. Countless
+    factions even claim to be the emissaries of a certain Aeon. Most of the Aeons have found no interest in the ways of
+    these factions. Some, however, find it extremely amusing to watch these ants in their fervent labor.
+    <strong>THEY</strong> may provide careful guidance, or create mysticism to alter the progress of the faction. This
+    is THEIR way of influencing the world.</p>
 
 </body>
+
 </html>
